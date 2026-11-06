@@ -98,6 +98,10 @@ documents/interview/**
 
 # Personal job search tracking
 job_search_tracker.csv
+job-search/
+documents/resume_ats_review_*.md
+.codegraph/
+tmp/
 
 # Gmail sync state (message IDs, subjects - personal data)
 gmail_sync/
